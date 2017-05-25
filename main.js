@@ -1,3 +1,7 @@
+function loadYTBLink(link){
+ if(link.match(
+}
+
 window.onload = () => {
  const plus = document.getElementsByClassName('b1');
  for(let i=0;i<plus.length;i++){
