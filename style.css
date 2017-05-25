@@ -31,6 +31,7 @@ html,body{
  float:left;
  width:10%;
  height:100%;
+ font-size:2em;
  background-color:#fff;
  color:#bebebe;
  border:solid 1px #bebebe;
@@ -38,6 +39,7 @@ html,body{
 .frame div textarea{
  width:89%;
  height:100%;
+ font-size:2em;
  background-color:#fff;
  color:#bebebe;
  border:solid 1px #bebebe;
